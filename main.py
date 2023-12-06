@@ -1,0 +1,1 @@
+AUTHORS = [ 'C.S. Lewis', 'Ernest Hemingway', 'Jane Austen', 'Jhumpa Lahiri', 'JK Rowling', 'Shakespeare', 'John Steinbeck',  'Bill Bryson', 'JRR Tolkein','Amy Tan']
